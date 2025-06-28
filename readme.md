@@ -1,4 +1,4 @@
-'''
+
 # 📚 Library Management System (MySQL + Python)
 
 A simple **Library Management System** built with **Python** and **MySQL**, using the `Faker` library to auto-generate mock data for students and books.
@@ -129,7 +129,7 @@ This will:
 
 ### Book addition process
 
-![Book addition process](screenshots/adding_book.png)
+![Book addition process](screenshots/adding _book.png)
 
 ---
 
