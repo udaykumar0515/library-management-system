@@ -1,8 +1,4 @@
-Here's your polished and perfectly formatted `README.md` file. I've cleaned up typos, improved clarity, and ensured consistency throughout — ready to impress anyone checking out your project!
-
----
-
-````markdown
+'''
 # 📚 Library Management System (MySQL + Python)
 
 A simple **Library Management System** built with **Python** and **MySQL**, using the `Faker` library to auto-generate mock data for students and books.
@@ -26,8 +22,9 @@ Make sure you have the following installed:
 - Python 3.x
 - MySQL Server
 - Required Python libraries:
-  ```bash
-  pip install mysql-connector-python faker python-dotenv
+
+```bash
+pip install mysql-connector-python faker python-dotenv
 ````
 
 ---
@@ -114,13 +111,25 @@ This will:
 
 ## 🖼️ Screenshots
 
-| Description                       | Screenshot                                 |
-| --------------------------------- | ------------------------------------------ |
-| Initial interface (empty data)    | `screenshots/main_interface_empty.png`     |
-| After adding a book (highlighted) | `screenshots/add_book_highlighted.png`     |
-| Student added confirmation        | `screenshots/add_student_success.png`      |
-| Interface with full data          | `screenshots/main_interface_with_data.png` |
-| Book addition process             | `screenshots/adding_book.png`              |
+### Initial interface (empty data)
+
+![Initial interface](screenshots/main_interface_empty.png)
+
+### After adding a book (highlighted)
+
+![Add book highlighted](screenshots/add_book_highlighted.png)
+
+### Student added confirmation
+
+![Student added confirmation](screenshots/add_student_success.png)
+
+### Interface with full data
+
+![Interface with full data](screenshots/main_interface_with_data.png)
+
+### Book addition process
+
+![Book addition process](screenshots/adding_book.png)
 
 ---
 
@@ -147,3 +156,7 @@ Created by **Uday Kumar** — feel free to reach out with suggestions or issues!
 
 ---
 
+This is ready to drop into your `README.md` file and it will display perfectly on GitHub or any markdown viewer.
+
+If you want, I can help you add badges or a troubleshooting section next!
+```
