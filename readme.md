@@ -127,10 +127,6 @@ This will:
 
 ![Interface with full data](screenshots/main_interface_with_data.png)
 
-### Book addition process
-
-![Book addition process](screenshots/adding _book.png)
-
 ---
 
 ## 🙌 Contributions
