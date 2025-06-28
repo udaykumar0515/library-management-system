@@ -148,11 +148,3 @@ Feel free to fork, improve, or adapt this project. Pull requests and suggestions
 
 Created by **Uday Kumar** — feel free to reach out with suggestions or issues!
 
-```
-
----
-
-This is ready to drop into your `README.md` file and it will display perfectly on GitHub or any markdown viewer.
-
-If you want, I can help you add badges or a troubleshooting section next!
-```
